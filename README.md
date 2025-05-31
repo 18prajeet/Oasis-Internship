@@ -5,9 +5,7 @@ Welcome! This repository contains the projects I completed during my **Java Deve
 ---
 
 ## 📌 Internship Details
-
-- **Role:** Java Developer Intern  
-- **Company:** Oasis Infobyte  
+ 
 - **Tasks Completed:**  
   - Task 2: Number Guessing Game  
   - Task 3: ATM Interface
@@ -18,12 +16,16 @@ Welcome! This repository contains the projects I completed during my **Java Deve
 
 A console-based game where the system generates a random number, and the user tries to guess it. The program gives hints ("Too high" / "Too low") and counts the number of attempts.
 
+---
+
 ### ✅ Features:
 - Random number generation within a predefined range.
 - User input and validation.
 - Hint after every wrong guess.
 - Attempt tracking.
 - Option to play again.
+
+  ---
 
 # 🏦 Task 3 – ATM Interface
 
